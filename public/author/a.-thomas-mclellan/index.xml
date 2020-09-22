@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Thomas McLellan | Theodore L. Caputi</title>
+    <link>https://www.theodorecaputi.com/author/a.-thomas-mclellan/</link>
+      <atom:link href="https://www.theodorecaputi.com/author/a.-thomas-mclellan/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Thomas McLellan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.theodorecaputi.com/images/icon_hu48ca03eb73ed8f12a0045fd42592c899_572285_512x512_fill_lanczos_center_2.png</url>
+      <title>A. Thomas McLellan</title>
+      <link>https://www.theodorecaputi.com/author/a.-thomas-mclellan/</link>
+    </image>
+    
+    <item>
+      <title>What search data shows about Americans and guns during the COVID-19 crisis</title>
+      <link>https://www.theodorecaputi.com/publications/2020-everytown-guns/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.theodorecaputi.com/publications/2020-everytown-guns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Truth and D.A.R.E.: Is D.A.R.E.’s new Keepin’ it REAL curriculum suitable for American nationwide implementation?</title>
+      <link>https://www.theodorecaputi.com/publications/2016-dare/</link>
+      <pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.theodorecaputi.com/publications/2016-dare/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

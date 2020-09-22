@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kevin A. Sabet | Theodore L. Caputi</title>
+    <link>https://www.theodorecaputi.com/author/kevin-a.-sabet/</link>
+      <atom:link href="https://www.theodorecaputi.com/author/kevin-a.-sabet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kevin A. Sabet</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.theodorecaputi.com/images/icon_hu48ca03eb73ed8f12a0045fd42592c899_572285_512x512_fill_lanczos_center_2.png</url>
+      <title>Kevin A. Sabet</title>
+      <link>https://www.theodorecaputi.com/author/kevin-a.-sabet/</link>
+    </image>
+    
+    <item>
+      <title>Population-level analyses cannot tell us anything about individual-level marijuana-opioid substitution</title>
+      <link>https://www.theodorecaputi.com/publications/2018-ajph-letter/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.theodorecaputi.com/publications/2018-ajph-letter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where is the reality in reality-based drug prevention?</title>
+      <link>https://www.theodorecaputi.com/publications/2016-drug-prevention/</link>
+      <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.theodorecaputi.com/publications/2016-drug-prevention/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+{{- define "main" -}}
+
+<article class="article">
+
+  {{ partial "page_header" . }}
+
+  <div class="article-container">
+
+    <div class="article-style">
+      {{ if eq .Page.Type "publications" }}
+      <h3>Abstract</h3>
+      {{ .Params.Abstract }}
+      {{ else }}
+      {{ .Content }}
+      {{ end }}
+    </div>
+
+    {{ partial "page_footer" . }}
+
+  </div>
+</article>
+
+{{- end -}}

@@ -2,3 +2,6 @@
 	path = public
 	url = https://github.com/tlcaputi/tlcaputi.github.io.git
 	branch = master
+[submodule "tlcaputi.github.io"]
+	path = tlcaputi.github.io
+	url = git@github.com:tlcaputi/tlcaputi.github.io.git

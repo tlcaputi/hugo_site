@@ -52,7 +52,7 @@ links_theo:
 
 - icon: "fa fa-fw fa-envelope-square"
   text: "Email"
-  link: "tcaputi@gmail.com"
+  link: "mailto:tcaputi@gmail.com"
 
 - icon: "fab fa-twitter-square small-icon"
   text: "Twitter"
@@ -89,11 +89,11 @@ links_theo:
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+Link to a PDF of your resume/CV from the About widget.
+To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+- icon: cv
+  icon_pack: ai
+  link: files/TheodoreCaputiShortCV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -105,7 +105,7 @@ user_groups:
 - Visitors
 ---
 
-My name is Theodore Caputi. I am a first-year in the [Ph.D. in Economics](https://economics.mit.edu/graduate) program at [MIT](https://economics.mit.edu/grad/tcaputi). I am also the author of the Behavioral Health Matters blog for [Psychology Today](https://www.psychologytoday.com/us/blog/behavioral-health-matters).
+My name is Theodore Caputi. I am a graduate student in the [Ph.D. in Economics](https://economics.mit.edu/graduate) program at [MIT](https://economics.mit.edu/grad/tcaputi). I am also the author of the Behavioral Health Matters blog for [Psychology Today](https://www.psychologytoday.com/us/blog/behavioral-health-matters).
 
 I graduated _summa cum laude_ from the [University of Pennsylvania’s Wharton School](https://www.upenn.edu/) with a [B.S. in Economics](https://undergrad.wharton.upenn.edu/academics/bs-in-economics/) in 2017 and first in my class with a [Master of Public Health](https://www.ucc.ie/en/ckx11/) from [University College Cork](https://www.ucc.ie/en/publichealth/) as a [Mitchell Scholar](http://www2.us-irelandalliance.org/content/657/en/) in 2019. From 2018-2019, I was a Research Assistant for [Professor Amanda Pallais](https://scholar.harvard.edu/pallais/home) at Harvard University’s Department of Economics and the [National Bureau of Economic Research](https://www.nber.org/). From 2019-2020, I studied Health Sciences at the [University of York](https://www.york.ac.uk/healthsciences/our-staff/students/theodore-caputi/) as a [British Marshall Scholar](https://www.marshallscholarship.org/the-scholars/scholar-profiles/theodore-caputi).
 

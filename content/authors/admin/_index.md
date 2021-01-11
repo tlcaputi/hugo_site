@@ -42,9 +42,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 links_theo:
-- icon: "fa fa-fw fa-map-marker"
-  text: "Cambridge, Mass."
-  link: ""
+# - icon: "fa fa-fw fa-map-marker"
+#   text: "Cambridge, Mass."
+  # link: ""
 
 # - icon: "fa fa-fw fa-map-marker"
 #   text: "MIT/University of York"
@@ -89,11 +89,11 @@ links_theo:
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
-Link to a PDF of your resume/CV from the About widget.
-To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/TheodoreCaputiShortCV.pdf
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+- icon: "cv"
+  icon_pack: "ai"
+  link: "files/TheodoreCaputiShortCV.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
